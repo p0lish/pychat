@@ -1,0 +1,23 @@
+{
+  "name": "H5chat",
+  "description": "HTML 5 chat application",
+  "version": "0.1.0",
+  "homepage": "none yet",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-ui-router": "^0.2.17",
+    "bootstrap": "^3.3.6"
+  },
+  "main": "",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/modules",
+    "test",
+    "tests"
+  ]
+}
